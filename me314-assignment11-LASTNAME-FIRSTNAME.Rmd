@@ -4,10 +4,6 @@ author: "Jack Blumenau"
 output: html_document
 ---
 
-```{r, eval=T, message = F, echo=FALSE}
-library(emo)
-```
-
 You will need to load the following library (you may need to use `install.packages()` first):
 ```{r, eval=T, message = F}
 library(rvest)
