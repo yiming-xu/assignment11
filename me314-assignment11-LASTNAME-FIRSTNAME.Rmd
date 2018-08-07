@@ -136,4 +136,4 @@ Regardless of whether you followed that last bit: it works! We now know where Ke
 
 2. Which was the modal university for the current set of UK MPs?
 
-3. Go back to the scraping code and see if you can add some more variables to the data.frame. Can you scrape the MPs' party affiliations?
+3. Go back to the scraping code and see if you can add some more variables to the data.frame. Can you scrape the MPs' party affiliations? Can you scrape their date of birth? Doing so will require you to look carefully at the html source code, and work out the appropriate xpath expression to use. For guidance on xpath, see [here](https://blog.scrapinghub.com/2016/10/27/an-introduction-to-xpath-with-examples).
